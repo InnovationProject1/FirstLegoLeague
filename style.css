@@ -1,0 +1,31 @@
+header {
+    background-color: orangered;
+display:flex;
+position: sticky;
+top:0;
+justify-content: space-between;
+align-items: center;
+z-index: 1000;
+padding: 20px 20px;
+font-size: 15px;
+}
+ul {
+    display: flex;
+    text-shadow: black 1px 0px 10px;
+    flex-direction: row;
+}
+body {
+    width: 100%;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+#Emergency_call {
+    background: url("./homebg.jpg");
+    background-position:top;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
