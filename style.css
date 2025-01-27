@@ -38,7 +38,7 @@ body {
     justify-content: center;
     text-align: center;
     align-items: center;
-    height: 90vh;
+    height: 100vh;
     margin: 0px;
 }
 
@@ -66,27 +66,7 @@ body {
     white-space: nowrap;
     width: 222ch;
     animation: typing 8s steps(222) infinite;
-    blind: 0.9s step-start infinite;
-    
-    background-color: #fff;
-
-    font-family: cursive;
-
-    margin-top: 50px;
-
-    text-align: justify;
-
-    padding: 40px;
-
-    box-shadow: 0.5px 0.5px 10px black;
-
-    width: 80%;
-
-    display: flex;
-
-    gap: 20px;
-    height:90vh;
-    
+    blind: 0.9s step-start infinite; 
 }
 .thank {
     overflow: hidden;
