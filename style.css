@@ -41,8 +41,10 @@ body {
 }
 
 .logo {
-    height: 10px;
-    width: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 #About {
     padding: 15px;
