@@ -29,7 +29,7 @@ body {
 }
 
 #Emergency_call {
-    background: url("homebg.jpeg");
+    background: url("homebg.jpg");
     background-position: top;
     background-size: cover;
     display: flex;
@@ -47,7 +47,7 @@ body {
 #About {
     padding: 15px;
     margin: 10px;
-    box-shadow: #10263bab;
+    box-shadow: black;
 }
 @keyframes  typing {
 
@@ -65,4 +65,12 @@ body {
 
     }
 
+}
+.name-title {
+    overflow: hidden;
+    border-right: 1.5px solid #987070;
+    white-space: nowrap;
+    width: 30ch;
+    animation: typing 8s steps(25) infinite;
+    blink: 0.9s step-start infinite;
 }
