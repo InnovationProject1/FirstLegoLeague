@@ -41,10 +41,6 @@ body {
 }
 
 .logo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
     height: 27px;
     width: 27px;
 }
@@ -56,19 +52,11 @@ body {
 @keyframes  typing {
 
     0% {
-
         width: 0;
-
     }
-
-
-
     50% {
-
-        width: 12ch;
-
+  width: 12ch;
     }
-
 }
 .description {
     overflow: hidden;
