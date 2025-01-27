@@ -78,13 +78,14 @@ body {
 
     padding: 40px;
 
-    box-shadow: 0.5px 0.5px 10px #C39898;
+    box-shadow: 0.5px 0.5px 10px black;
 
     width: 80%;
 
     display: flex;
 
     gap: 20px;
+    height:90vh;
     
 }
 .thank {
