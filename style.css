@@ -68,6 +68,26 @@ body {
     animation: typing 8s steps(222) infinite;
     blind: 0.9s step-start infinite; 
 }
+.about-box {
+    
+    background-color: #fff;
+
+    font-family: cursive;
+
+    margin-top: 50px;
+
+    text-align: justify;
+
+    padding: 40px;
+
+    box-shadow: 0.5px 0.5px 10px #000000;
+
+    width: 80%;
+
+    display: flex;
+
+    gap: 20px;
+}
 .thank {
     overflow: hidden;
     border-right: 1.5px solid #987070;
