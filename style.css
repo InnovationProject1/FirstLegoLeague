@@ -72,5 +72,5 @@ body {
     white-space: nowrap;
     width: 30ch;
     animation: typing 8s steps(25) infinite;
-    blink: 0.9s step-start infinite;
+    blind: 0.9s step-start infinite;
 }
