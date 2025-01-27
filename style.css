@@ -70,8 +70,8 @@ body {
     overflow: hidden;
     border-right: 1.5px solid #987070;
     white-space: nowrap;
-    width: 221ch;
-    animation: typing 8s steps(25) infinite;
+    width: 222ch;
+    animation: typing 8s steps(222) infinite;
     blind: 0.9s step-start infinite;
 }
 .thank {
@@ -79,6 +79,6 @@ body {
     border-right: 1.5px solid #987070;
     white-space: nowrap;
     width: 26ch;
-    animation: typing 8s steps(25) infinite;
+    animation: typing 8s steps(26) infinite;
     blind: 0.9s step-start infinite;
 }
