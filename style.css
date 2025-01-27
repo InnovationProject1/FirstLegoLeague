@@ -66,11 +66,19 @@ body {
     }
 
 }
-.name-title {
+.description {
     overflow: hidden;
     border-right: 1.5px solid #987070;
     white-space: nowrap;
-    width: 30ch;
+    width: 221ch;
+    animation: typing 8s steps(25) infinite;
+    blind: 0.9s step-start infinite;
+}
+.thank {
+    overflow: hidden;
+    border-right: 1.5px solid #987070;
+    white-space: nowrap;
+    width: 26ch;
     animation: typing 8s steps(25) infinite;
     blind: 0.9s step-start infinite;
 }
